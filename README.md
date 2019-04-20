@@ -1,5 +1,5 @@
 # hh-algo :spades:
 
-A comprehensive list of algo that I will update very soon.
+Leetcode Problems ( from Easy to Hard ) with specific explanation.
 
-1. Array
+1. array
